@@ -1,0 +1,21 @@
+.status
+{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+.black
+{
+    color: black;
+}
+
+.bg_odd
+{
+    background-color: #a5d959
+}
+.bg_even
+{
+    background-color: #62d91f
+}
